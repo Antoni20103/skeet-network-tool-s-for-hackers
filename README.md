@@ -308,7 +308,7 @@ Contributions welcome! Areas of interest:
 
 ## 👨‍💻 Author
 
-**Agnieszka** - Security Researcher & Developer
+**Antoni** - Security Researcher & Developer
 - Kernel developer
 - Bootloader writer
 - Penetration tester
