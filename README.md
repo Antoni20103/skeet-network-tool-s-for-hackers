@@ -309,10 +309,7 @@ Contributions welcome! Areas of interest:
 ## 👨‍💻 Author
 
 **Antoni** - Security Researcher & Developer
-- Kernel developer
-- Bootloader writer
 - Penetration tester
-- Age: 12 years old 🔥
 
 ## 📝 License
 
