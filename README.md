@@ -323,7 +323,7 @@ License will be added soon. All rights reserved for now.
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/skeet.git
+git clone https://github.com/Antoni20103/skeet.git
 
 # Install
 cd skeet
