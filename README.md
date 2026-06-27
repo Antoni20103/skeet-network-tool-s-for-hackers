@@ -349,8 +349,6 @@ This project is designed for:
 
 **Stay ethical. Stay legal. Stay awesome.** 🚀
 
-For questions or security concerns, contact: [YOUR_EMAIL]
-
 **Last Updated**: March 29, 2026
 **Version**: 1.0
 **Status**: Active Development
